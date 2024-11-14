@@ -1,5 +1,5 @@
 ## Hello!
-
+I'm Samkelo, a Data Engineering student at the University of Stellenbosch and I just love solving problems.
 <!--
 **samkelo-nkabinde/samkelo-nkabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
