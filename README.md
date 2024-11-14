@@ -16,7 +16,7 @@ I'm learning
 </div>
 
 ## Contact Me
-You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">samkelonkabinde@gmail.com</a>
+You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">samkelonkabinde33@gmail.com</a>
 <!--
 **samkelo-nkabinde/samkelo-nkabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
