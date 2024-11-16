@@ -1,7 +1,7 @@
 ## Hello!
 I'm Samkelo, a Data Engineering student at the University of Stellenbosch and I just love solving problems.
 ## Working on?
-I'm learning
+Learning
 ## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
