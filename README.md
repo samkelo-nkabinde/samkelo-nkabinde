@@ -1,5 +1,5 @@
 ## Hello!
-I'm Samkelo, a Data Engineering student at the University of Stellenbosch and I just love solving problems.
+I'm Samkelo, currently studying Data Engineering at the University of Stellenbosch.
 ## Working on?
 Learning
 ## Languages and Tools
