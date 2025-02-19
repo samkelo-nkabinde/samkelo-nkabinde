@@ -1,10 +1,12 @@
 ## Hello!
 I'm Samkelo, currently studying Data Engineering at the University of Stellenbosch.
 ## Working on?
-Learning
+🌱 I’m currently learning ...
 ## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -16,7 +18,7 @@ Learning
 </div>
 
 ## Contact Me
-You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">samkelonkabinde33@gmail.com</a>
+You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">samkelonkabinde@gmail.com</a>
 <!--
 **samkelo-nkabinde/samkelo-nkabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
