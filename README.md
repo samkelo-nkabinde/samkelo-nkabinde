@@ -1,5 +1,5 @@
 ## Hello!
-I'm Samkelo, currently studying Data Engineering at the University of Stellenbosch.
+I'm Samkelo, currently studying Data Engineering.
 ## Working on?
 🌱 I’m currently learning ...
 ## Languages and Tools
