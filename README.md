@@ -18,7 +18,7 @@ I'm Samkelo, currently studying Data Engineering.
 </div>
 
 ## Contact Me
-You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">samkelonkabinde@mail.com</a>
+You can reach me at <a href="mailto:samkelonkabinde33@gmail.com">mymail</a>
 <!--
 **samkelo-nkabinde/samkelo-nkabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
